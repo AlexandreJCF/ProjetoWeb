@@ -1,0 +1,6 @@
+Na pagina inical poderemos fazer login com um username e uma password, caso o utilizador ainda n tem conta poderá tambem criar uma nova ao clicar no botao regitar.
+A pagina de registar sera simples so com tres caixas de texto para inserir o utilizador, a password e confirmar a password.
+Depois do utilizador fazer login ira para uma pagina onde podera ver ou criar as suas listas.
+Caso clique numa lista podera ver todos os itens que colocou e adicionar ou remover o valor de cada item, e tambem poderá editar a lista ao adicionar ou remover algum item.
+Em criar uma lista, sera uma pagina parecida com a de editar mas ainda n tera nenhum item e podera adiciona-los.
+Todas as listas serao guardadas numa base de dados.
